@@ -1,4 +1,4 @@
-# kakedashi DB設計
+# Kakedashi DB設計
 ## usersテーブル
 |Column|Type|Option|
 |------|----|------|
